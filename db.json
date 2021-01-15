@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "first stream",
+      "id": 1
+    },
+    {
+      "title": "other",
+      "description": "other one",
+      "id": 2
+    },
+    {
+      "title": "Reuseable stream",
+      "description": "qwe",
+      "id": 4
+    },
+    {
+      "title": "Test",
+      "description": "stream to test",
+      "userId": "115908957931272652979",
+      "id": 5
+    }
+  ]
+}
